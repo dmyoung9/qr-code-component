@@ -6,8 +6,6 @@
 
     --font-family: 'Outfit', sans-serif;
     --font-size: 15px;
-    --font-weight-400: 400;
-    --font-weight-700: 700;
 }
 
 body {
@@ -43,12 +41,12 @@ body {
 
 h2 {
     color: var(--dark-blue);
-    font-weight: var(--font-weight-700);
+    font-weight: bold;
 }
 
 h4 {
     color: var(--grayish-blue);
-    font-weight: var(--font-weight-400);
+    font-weight: normal;
 }
 
 .attribution {
